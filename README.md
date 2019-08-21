@@ -1,4 +1,5 @@
 # website
+New website for ReRise
 
 ## Project setup
 ```
@@ -27,3 +28,4 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
